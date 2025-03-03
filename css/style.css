@@ -32,3 +32,17 @@ figure {
   margin-left: 0px;
   text-align: justify;
 }
+section {
+  font-size: 23px;
+}
+table {
+  table-layout: fixed;
+}
+.tabhead {
+  background-color: #4ea0ff;
+  color: white;
+  text-align: left;
+}
+.tabcolor {
+  background-color: #b1e6f2;
+}
