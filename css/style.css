@@ -1,13 +1,34 @@
+body {
+  margin: 0;
+}
 .header {
   background-color: #4ea0ff;
   background-image: url(../img/pattern.png);
   background-position: center;
-}
-body {
-  margin: 0;
+  padding-top: 50px;
+  padding-left: 10px;
 }
 .logo {
-  width: 10%;
-  margin-top: 30px;
-  margin-left: 10px;
+  width: 250px;
+}
+main {
+  padding: 10px;
+}
+h1 {
+  font-size: 75px;
+  margin-bottom: 10px;
+}
+.credits {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: #9d9d9d;
+  margin-top: 10px;
+}
+.link {
+  color: rgb(6, 145, 214);
+  text-decoration: none;
+}
+figure {
+  margin-left: 0px;
+  text-align: justify;
 }
