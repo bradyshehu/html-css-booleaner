@@ -46,3 +46,30 @@ table {
 .tabcolor {
   background-color: #b1e6f2;
 }
+.info {
+  color: grey;
+  font-size: 23px;
+  font-weight: bold;
+}
+.articolo-monitor {
+  color: white;
+  width: 210px;
+  height: 160px;
+  background-image: url(../img/monitor.jpg);
+  background-position: left;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.articolo-grafico {
+  color: white;
+  width: 210px;
+  height: 160px;
+  background-image: url(../img/graph.jpg);
+  background-position: left;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.articolo-monitor-scritta {
+  font-size: larger;
+  font-weight: bold;
+}
