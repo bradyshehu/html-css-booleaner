@@ -37,6 +37,7 @@ section {
 }
 table {
   table-layout: fixed;
+  width: 100%;
 }
 .tabhead {
   background-color: #4ea0ff;
